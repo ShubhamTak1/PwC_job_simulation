@@ -1,5 +1,3 @@
-# PwC_job_simulation
-[README.md](https://github.com/user-attachments/files/17083319/README.md)
 # PWC Power-BI Virtual Internship
 
 » During this program, I performed various tasks that helped me learn essential skills required for data analysis and data visualization using Power BI in a meaningful manner.
